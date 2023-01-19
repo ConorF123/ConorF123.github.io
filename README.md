@@ -8,7 +8,7 @@
 
 ## In-Class Assignments
 
-- [ICA1](conorF123.github.io/ica/ICA1.pdf)
+- [ICA1](https://docs.google.com/document/d/1NQcDyaAD1vGnEjOLK54Jti9axfCbXvXzLClDNTOjqTU)
 - ICA2
 - ICA3
 - ICA4
