@@ -8,7 +8,7 @@
 
 ## In-Class Assignments
 
-- [ICA1](ICA1.pdf)
+- [ICA1](https://github.com/ConorF123/ConorF123.github.io/ica/ICA1.pdf)
 - ICA2
 - ICA3
 - ICA4
@@ -26,7 +26,7 @@
 
 ## Weekly Assignments
 
-- [WA1](ConorF123.github.io/wa/wa1.html)
+- [WA1](https://github.com/ConorF123/ConorF123.github.io/wa/wa1.html)
 - WA2
 - WA3
 - WA4
