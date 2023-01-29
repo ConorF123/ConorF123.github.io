@@ -8,8 +8,8 @@
 
 ## In-Class Assignments
 
-- [ICA1](https://docs.google.com/document/d/1NQcDyaAD1vGnEjOLK54Jti9axfCbXvXzLClDNTOjqTU)
-- ICA2
+- [ICA1](https://docs.google.com/document/d/1NQcDyaAD1vGnEjOLK54Jti9axfCbXvXzLClDNTOjqTU/edit?usp=share_link)
+- [ICA2](https://docs.google.com/document/d/1op4ATXS8DLpWqxc52oY5_Sv8aQn_jDBmfC01NDNFvIQ/edit?usp=share_link)
 - ICA3
 - ICA4
 - ICA5
