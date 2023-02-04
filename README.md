@@ -2,7 +2,7 @@
 
 ## Projects
 
-- HTML
+- [HTML](https://conorf123.github.io/html-midterm/page5.html)
 - CSS
 - JS
 
