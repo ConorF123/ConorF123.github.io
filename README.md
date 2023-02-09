@@ -26,10 +26,10 @@
 
 ## Weekly Assignments
 
-- [WA1](https://conorf123.github.io/wa/wa1.html)
-- [WA2](https://conorf123.github.io/wa/wa2.html)
-- [WA3](https://conorf123.github.io/wa/wa3.html)
-- WA4
+- [WA1](https://conorf123.github.io/wa/WA1.html)
+- [WA2](https://conorf123.github.io/wa/WA2.html)
+- [WA3](https://conorf123.github.io/wa/WA3.html)
+- [WA4](https://conorf123.github.io/wa/WA4.html)
 - WA5
 - WA6
 - WA7
