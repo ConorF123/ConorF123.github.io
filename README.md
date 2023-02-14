@@ -12,7 +12,7 @@
 - [ICA2](https://docs.google.com/document/d/1op4ATXS8DLpWqxc52oY5_Sv8aQn_jDBmfC01NDNFvIQ/edit?usp=share_link)
 - ICA3: [a](https://conorf123.github.io/ica/ICA3a.html) [b](https://conorf123.github.io/ica/ICA3b.html)
 - [ICA4](https://conorf123.github.io/ica/ICA4.html)
-- ICA5
+- [ICA5](https://conorf123.github.io/ica/ICA5/ICA5.html)
 - ICA6
 - ICA7
 - ICA8
