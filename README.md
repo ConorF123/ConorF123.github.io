@@ -14,7 +14,7 @@
 - [ICA4](https://conorf123.github.io/ica/ICA4.html)
 - [ICA5](https://conorf123.github.io/ica/ICA5/ICA5.html)
 - ICA6: [a](https://conorf123.github.io/ica/ICA6/ica6-part1.html) [b](https://conorf123.github.io/ica/ICA6/ica6-part2.html) [c](https://conorf123.github.io/ica/ICA6/ica6-part3.html)
-- ICA7
+- [ICA7](https://conorf123.github.io/ica/ICA7.html)
 - ICA8
 - ICA9
 - ICA10
