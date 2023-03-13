@@ -3,7 +3,7 @@
 ## Projects
 
 - [HTML](https://conorf123.github.io/html-midterm/page5.html)
-- CSS
+- [CSS](https://conorf123.github.io/index.html)
 - JS
 
 ## In-Class Assignments
