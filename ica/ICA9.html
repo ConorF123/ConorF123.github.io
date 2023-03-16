@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ICA 9</title>
+    <script>
+		function changeBackground() {
+			document.body.style.backgroundColor = "green";
+		}
+		function changeText() {
+			document.getElementById("change").innerHTML = "I was changed by a javascript function.";
+		}
+    </script>
+</head>
+<body>
+    <h1>ICA 9: Interactive Elements</h1>
+	<p id="change">Click the buttons below to change the page.</p>
+	<button onclick="changeBackground()">Change Background</button>
+	<button onclick="changeText()">Change Text</button>
+</body>
+</html>
