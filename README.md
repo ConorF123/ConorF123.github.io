@@ -32,7 +32,7 @@
 - [WA5](https://conorf123.github.io/wa/WA5.html)
 - [WA6](https://conorf123.github.io/wa/WA6/index.html)
 - [WA7](https://conorf123.github.io/wa/WA7.html)
-- WA9
+- [WA9](https://conorf123.github.io/wa/WA9.html)
 - WA10
 - WA11
 - WA12
