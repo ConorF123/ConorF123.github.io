@@ -35,6 +35,6 @@
 - [WA9](https://conorf123.github.io/wa/WA9.html)
 - [WA10](https://conorf123.github.io/wa/WA10.html)
 - [WA12](https://conorf123.github.io/wa/WA12.html)
-- WA13
+- [WA13](https://conorf123.github.io/wa/WA13.html)
 - WA14
 - WA15
